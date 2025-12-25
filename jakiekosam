@@ -2,4 +2,15 @@
 http://147.93.153.98/GOLDD/play.php?id=277166|user-agent=RANAPK
 #EXTINF:-1 tvg-ID="" tvg-name="|HI| POGO KIDS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| INDIA",|HI| POGO KIDS
 http://147.93.153.98/GOLDD/play.php?id=276997|user-agent=RANAPK
-
+#EXTINF:-1 tvg-id="166" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png",Cartoon Network Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e5ec63e26c1520380236941c3848f68:f944e7ee9260a9e6239170db4d6fa713
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1766623640~exp=1766710040~acl=/*~hmac=e350109e6dc7644103f930a822d1ac1825c9c60eccab7532e9b3fff459963811"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Cartoon_Network_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1766623640~exp=1766710040~acl=/*~hmac=e350109e6dc7644103f930a822d1ac1825c9c60eccab7532e9b3fff459963811&xxx=%7Ccookie=__hdnea__=st=1766623640~exp=1766710040~acl=/*~hmac=e350109e6dc7644103f930a822d1ac1825c9c60eccab7532e9b3fff459963811
+#EXTINF:-1 tvg-id="1373" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1766623640~exp=1766710040~acl=/*~hmac=e350109e6dc7644103f930a822d1ac1825c9c60eccab7532e9b3fff459963811"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1766623640~exp=1766710040~acl=/*~hmac=e350109e6dc7644103f930a822d1ac1825c9c60eccab7532e9b3fff459963811&xxx=%7Ccookie=__hdnea__=st=1766623640~exp=1766710040~acl=/*~hmac=e350109e6dc7644103f930a822d1ac1825c9c60eccab7532e9b3fff459963811
